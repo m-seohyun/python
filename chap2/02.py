@@ -83,7 +83,7 @@ print("str_var4", str_var4)
 '''
 
 
-
+'''
 num_str = input("실수를 하나 입력하세요.")
 num_str.replace('.', '')
 
@@ -97,3 +97,4 @@ sum += int(num_str[5])
 
 print("입력값 : ", num_str)
 print("모든 자리수 합 : ", sum)
+'''
